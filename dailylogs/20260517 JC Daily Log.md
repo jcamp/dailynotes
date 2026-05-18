@@ -66,7 +66,7 @@ Browser-based video-to-GIF conversion with no external runtime dependencies.
 
 Repo: [https://github.com/mmiscool/vid2gif.net](https://github.com/mmiscool/vid2gif.net)
 
-## What It Does
+### What It Does
 
 - Loads a local video file directly in the browser
 - Lets you choose start and end time plus frame rate
@@ -75,7 +75,7 @@ Repo: [https://github.com/mmiscool/vid2gif.net](https://github.com/mmiscool/vid2
 - Generates an animated GIF locally in the page
 - Exports a downloadable `.gif` without sending media to a server
 
-## VideoLow (clip and transcode video)
+### VideoLow (clip and transcode video)
 
 https://github.com/andreasGBL/VideoLow
 
@@ -83,9 +83,23 @@ VideoLow is a lightweight, free tool for Windows based on [ffmpeg](https://githu
 
 It currently supports h.264 and hevc (h.265) video codecs, as well as mp3 and aac audio codecs. The GUI is made with [QT 5](https://github.com/qt/qt5).
 
-## js2flowchart.js
+### js2flowchart.js
 
 https://github.com/Bogdan-Lyashenko/js-code-to-svg-flowchart
 
 js2flowchart is a tool for generating beautiful SVG flowcharts™ from JavaScript code.
+
+### VSCode for the Web (web interface)
+
+https://vscode.dev/
+
+https://code.visualstudio.com/docs/setup/vscode-web
+
+Visual Studio Code for the Web provides a free, zero-install Microsoft Visual Studio Code experience running entirely in your browser, allowing you to quickly and safely browse source code repositories and make lightweight code changes. To get started, go to [https://vscode.dev](https://vscode.dev/) in your browser.
+
+VS Code for the Web has many of the features of VS Code Desktop that you love, including search and syntax highlighting while browsing and editing, along with extension support to work on your codebase and make simpler edits. In addition to opening repositories, forks, and pull requests from source control providers like GitHub and Azure Repos, you can also work with code that is stored on your local machine.
+
+VS Code for the Web runs entirely in your web browser, so there are certain limitations compared to the desktop experience, which you can read more about [below](https://code.visualstudio.com/docs/setup/vscode-web#_limitations).
+
+The following video gives a quick overview of Visual Studio Code for the Web.
 
