@@ -1,6 +1,6 @@
 ## JC Daily software and notes
 
-**20260518**
+**20260518** see [20260517](20260517-JC-Daily-Log.md)
 
 ### LosslessCut - slice and dice videos very quickily and easily - 5 / 5 stars
 
