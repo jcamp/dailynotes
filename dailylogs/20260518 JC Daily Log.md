@@ -34,7 +34,7 @@ BookStack is a simple, self-hosted, easy-to-use platform for organising and stor
 
 https://js.wiki/
 
-# The most **powerful** and extensible **open source** Wiki software
+#### The most **powerful** and extensible **open source** Wiki software
 
 Install anywhere
 
@@ -43,7 +43,7 @@ https://docs.requarks.io/install/windows
 
 Works on virtually any platform and is compatible with either PostgreSQL, MySQL, MariaDB, MS SQL Server or SQLite!
 
-## Activity Watch - free OSS activity monitor and time tracker
+### Activity Watch - free OSS activity monitor and time tracker
 
 https://activitywatch.net/
 
@@ -53,7 +53,7 @@ https://activitywatch.net/
 
 It is **privacy-first** and **cross-platform**, and a great alternative to services like RescueTime, ManicTime, and WakaTime. Unlike closed-source time trackers, your data stays on your device — never uploaded to the cloud.
 
-## Anytype.io - sort of personal organiser - shared and private collaboration plus chat etc.
+### Anytype.io - sort of personal organiser - shared and private collaboration plus chat etc.
 
 https://anytype.io/
 
