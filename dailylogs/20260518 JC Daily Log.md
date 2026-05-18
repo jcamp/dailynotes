@@ -57,6 +57,12 @@ It is **privacy-first** and **cross-platform**, and a great alternative to servi
 
 https://anytype.io/
 
-
-
 Use it as an **activity tracker** or **productivity tracker** to monitor time spent on different projects, manage screen time habits, track work hours, or just understand how you spend your day.
+
+### Cheat sheet and info for Github
+
+Cheat sheet:@ https://git-scm.com/cheat-sheet  
+Github book: https://git-scm.com/book/en/v2  
+GUI's for Github: https://git-scm.com/tools/guis  
+Docs for Github: https://git-scm.com/docs  
+Installation for Github: https://git-scm.com/install/windows
