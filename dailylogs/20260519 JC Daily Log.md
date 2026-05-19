@@ -1,5 +1,11 @@
 ## JC Daily log for 20260519
 
+### Glance - The wonderful totally configurable Dashboard and RSS reader PLUS a lot more!
+
+https://github.com/glanceapp/glance
+
+If you do not have this installed - DO IT!
+
 ### Freemind - Free mindmapping tool - been around for donkeys years!
 
 https://freemind.sourceforge.io/wiki/index.php/Main_Page
@@ -22,6 +28,7 @@ Our main areas of interest orbit around Home Lab, Self Hosting, Security, and al
 https://github.com/jeb5/YouTube-Subscriptions-RSS
 
 Use this script to get the RSS feeds of all your YouTube subscriptions. It downloads as an OPML file, which can be imported into your favorite RSS reader.
+Gets the Channel ID's from channels which is very useful for RSS readers, etc.
 
 Usage:  
 Navigate to youtube.com/feed/channels.
